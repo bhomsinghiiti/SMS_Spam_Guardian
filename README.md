@@ -20,4 +20,4 @@ This project focuses on Natural Language Processing (NLP) using SMS data to clas
 * More information about this dataset is available [here](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/).
 
 ## 📧 Contact:
-For any suggestions or assistance with the model's code, please contact me at jawwadumar99@gmail.com.
+For any suggestions or assistance with the model's code, please contact me at chillhouse7773@gmail.com.
